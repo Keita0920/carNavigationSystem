@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B43A2A52A89D8D3005776C7 /* FlickButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B43A2A42A89D8D3005776C7 /* FlickButton.swift */; };
 		0BB6ECCB2A702B66004A85D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB6ECCA2A702B66004A85D1 /* AppDelegate.swift */; };
 		0BB6ECCD2A702B66004A85D1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB6ECCC2A702B66004A85D1 /* SceneDelegate.swift */; };
 		0BB6ECCF2A702B66004A85D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB6ECCE2A702B66004A85D1 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0B43A2A42A89D8D3005776C7 /* FlickButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlickButton.swift; sourceTree = "<group>"; };
 		0BB6ECC72A702B66004A85D1 /* carNavigationSystem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = carNavigationSystem.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BB6ECCA2A702B66004A85D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0BB6ECCC2A702B66004A85D1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				0BB6ECCA2A702B66004A85D1 /* AppDelegate.swift */,
 				0BB6ECCC2A702B66004A85D1 /* SceneDelegate.swift */,
 				0BB6ECCE2A702B66004A85D1 /* ViewController.swift */,
+				0B43A2A42A89D8D3005776C7 /* FlickButton.swift */,
 				0BB6ECD02A702B66004A85D1 /* Main.storyboard */,
 				0BB6ECD32A702B66004A85D1 /* Assets.xcassets */,
 				0BB6ECD52A702B66004A85D1 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0BB6ECCF2A702B66004A85D1 /* ViewController.swift in Sources */,
+				0B43A2A52A89D8D3005776C7 /* FlickButton.swift in Sources */,
 				0BB6ECCB2A702B66004A85D1 /* AppDelegate.swift in Sources */,
 				0BB6ECCD2A702B66004A85D1 /* SceneDelegate.swift in Sources */,
 			);
